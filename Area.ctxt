@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Area
+comment1.params=areaName
+comment1.target=Area(java.lang.String)
+comment2.params=
+comment2.target=Area\ getNextArea()
+comment3.params=nextArea
+comment3.target=void\ setNextArea(Area)
+comment4.params=
+comment4.target=java.lang.String\ getAreaName()
+comment5.params=dayToAdd
+comment5.target=void\ addDay(Day)
+comment6.params=
+comment6.target=void\ showDays()
+comment7.params=
+comment7.target=int\ areaValue()
+comment8.params=doorNo\ road
+comment8.target=Customer\ findCustomerArea(int,\ java.lang.String)
+numComments=9

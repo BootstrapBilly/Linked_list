@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Test
+comment1.params=result\ expected
+comment1.target=void\ testEqualsInt(int,\ int)
+comment2.params=array
+comment2.target=java.lang.String\ arrayToString(int[])
+comment3.params=result\ expected
+comment3.target=void\ testEqualIntArrays(int[],\ int[])
+comment4.params=result\ expected
+comment4.target=void\ testEqualsCustomer(Customer,\ Customer)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
